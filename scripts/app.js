@@ -1,2 +1,2 @@
 console.log("Hello World!")
-console.log("Sean does not sucks lmao")
+console.log("Sean is in boi")
